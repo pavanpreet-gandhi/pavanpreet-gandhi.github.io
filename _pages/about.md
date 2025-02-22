@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
 🎓 Currently pursuing an MSc in Computational Statistics and Machine Learning at University College London (UCL).
 
 🔍 My research interests are in applying Reinforcement Learning to Large Language Models.
 
-📜 I am currently working on my master's thesis, which involves reasoning with large audio models.
+📜 I am currently working on my master's thesis involving reasoning with large audio models.
 
-💡 I enjoy applying my skills to produce value.
+📈 I enjoy applying my skills to add value.
