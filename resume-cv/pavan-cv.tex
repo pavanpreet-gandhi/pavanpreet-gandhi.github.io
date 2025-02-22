@@ -1,0 +1,199 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% Website: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\Large Pavanpreet Singh Gandhi} & Email : \href{mailto:pavanpreet.gandhi@gmail.com}{pavanpreet.gandhi@gmail.com}\\
+    \href{https://www.linkedin.com/in/pavanpreet-gandhi/}{LinkedIn}, \href{https://github.com/pavanpreet-gandhi}{GitHub} & Mobile : +44 (0)7927 658364 \\
+\end{tabular*}
+
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+    \resumeSubItem{Programming Languages}
+    {Python, R, SQL, Bash}
+    \resumeSubItem{Programming Frameworks}
+    {PyTorch, JAX, HuggingFace, NumPy, Pandas, Matplotlib, etc.}
+    \resumeSubItem{Technologies}
+    {Deep Learning, Large Language Models, Reinforcement Learning, Time Series Analysis, Anomaly Detection, Gaussian Processes, Bayesian Inference}
+    \resumeSubItem{Tools}
+    {Git, Docker, Linux, Jupyter Notebooks, Streamlit}
+\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {American Express}{Brighton, UK}
+      {Graduate Data Scientist}{Sep 2023 -- Aug 2024}
+      \resumeItemListStart
+        \resumeItem{Anomaly Detection}
+          {Applied \textbf{unsupervised learning} techniques and \textbf{robust statistics} to detect anomalies in call-volume data. Deployed the model in a system to automatically send alerts to the operations teams.}
+        \resumeItem{Data Engineering}
+          {Maintained \textbf{PySpark} data pipelines and developed a custom uploader-factory system enabling 200+ non-technical users to upload data directly to the data lake.}
+        \resumeItem{Data Science Community}
+          {Part of the organising community for a 100+ member data science community. Presented a talk on software engineering best practices for data science.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {American Express}{Brighton, UK}
+      {Data Science Internship}{Jun 2022 -- Aug 2022}
+      \resumeItemListStart
+        \resumeItem{Time Series Forecasting}
+        {Developed a \textbf{time series forecasting model} leveraging Prophet and NeuralProphet to predict call volumes over various time horizons.}
+        \resumeItem{UX Research}
+          {Met with multiple stakeholders accross the business to understand their needs and pain points.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Looloo Technology}{Bangkok, Thailand}
+      {Machine Learning Internship}{Jul 2021 -- Dec 2021}
+      \resumeItemListStart
+        \resumeItem{Underline Detection}
+          {Developed a novel \textbf{computer vision} algorithm based on \textbf{Gabor filters} to detect and remove underlines from handwritten text.}
+        \resumeItem{Auction Price Prediction}
+          {Continued working part-time on \textbf{feature engineering} of confidential order-book data for a \textbf{reinforcement learning} algorithm that predicts the auction price of a stock.}
+      \resumeItemListEnd
+    
+    \resumeSubheading
+      {Mahidol University}{Bangkok, Thailand}
+      {TA and Tutor}{Jan 2021 -- Dec 2021}
+      \resumeItemListStart
+        \resumeItem{Discrete Maths TA}
+          {Teacher assistant for course taught by Dr Piti Ongmongkolkul.}
+        \resumeItem{Maths Clinic Tutor}
+          {Helped students struggling with first-year undergraduate maths courses.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+    \resumeSubHeadingListStart
+        \resumeSubheading
+            {University College London}{London, UK}
+            {Master of Science in Computational Statistics and Machine Learning}{Aug 2023 -- Present}
+            \resumeItemListStart
+                \resumeItem{Relevant Courses}
+                  {Reinforcement Learning (DeepMind), 
+                  Open-Endedness and General Intelligence (Tim Rocktäschel et al.), 
+                  Probabalsitic Unsupervised Learning (Gatsby).
+                  % Machine Learning Seminar, 
+                  % Bayesian Deep Learning, 
+                  % Satatistical Models and Data Analysis, 
+                  % Supervised Learning, 
+                  % Applied Deep Learning.
+                  }
+                \resumeItem{Thesis}
+                  {Working with Century Tech on \textbf{audio reasoning models} for 
+                  automated grading of oral assessments.}
+            \resumeItemListEnd
+        \resumeSubheading
+            {Mahidol University International College}{Bangkok, Thailand}
+            {Bachelor of Science in Applied Mathematics; GPA: 3.89}{Aug 2019 -- Apr 2023}
+            \resumeItemListStart
+                \resumeItem{Relevant Courses}
+                  {Deep learning, Machine Learning, Optimization, Numerical Methods.}
+                \resumeItem{Thesis}
+                  {Deep Q-Learning for Stock Portfolio Optimization.}
+            \resumeItemListEnd
+        \resumeSubheading{NIST International School}{Bangkok, Thailand}
+        {IB Diploma}{Aug 2017 -- Jun 2019}
+        \resumeSubheading{NPS International School}{Singapore}
+        {IGCSE}{Aug 2008 -- Jun 2017}
+    \resumeSubHeadingListEnd
+
+
+% %-----------PROJECTS-----------------
+% \section{Projects}
+%   \resumeSubHeadingListStart
+%     \resumeSubItem{QuantSoftware Toolkit}
+%       {Open source python library for financial data analysis and machine learning for finance.}
+%     \resumeSubItem{Github Visualization}
+%       {Data Visualization of Git Log data using D3 to analyze project trends over time.}
+%     \resumeSubItem{Recommendation System}
+%       {Music and Movie recommender systems using collaborative filtering on public datasets.}
+% %     \resumeSubItem{Mac Setup}
+% %       {Book that gives step by step instructions on setting up developer environment on Mac OS.}
+%   \resumeSubHeadingListEnd
+
+%
+
+%-------------------------------------------
+\end{document}
