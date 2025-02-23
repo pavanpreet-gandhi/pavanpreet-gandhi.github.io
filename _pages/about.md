@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 
 🎓 Currently pursuing an MSc in Computational Statistics and Machine Learning at University College London (UCL).
 
@@ -15,3 +16,5 @@ redirect_from:
 📜 I am currently working on my master's thesis involving reasoning with large audio models.
 
 📈 I enjoy applying my skills to add value.
+
+## Selected Content
