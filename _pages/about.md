@@ -15,6 +15,4 @@ redirect_from:
 
 📜 I am currently working on my master's thesis involving reasoning with large audio models.
 
-📈 I enjoy applying my skills to add value.
-
-## Selected Content
+📈 Previously, I was a Graduate Data Scientist at American express. I enjoy applying my skills to add value.
