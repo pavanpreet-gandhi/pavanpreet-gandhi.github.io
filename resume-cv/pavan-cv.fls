@@ -1,8 +1,8 @@
-PWD /Users/pavanpreetgandhi/Documents/resume
+PWD /Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pavanpreetgandhi/Documents/resume/pavan-cv.tex
+INPUT /Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv/pavan-cv.tex
 OUTPUT pavan-cv.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
