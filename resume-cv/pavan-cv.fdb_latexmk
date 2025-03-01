@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740486005.49602 "/Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv/pavan-cv.tex" "pavan-cv.pdf" "pavan-cv" 1740486005.94841 0
-  "/Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv/pavan-cv.tex" 1740486005.27018 7808 09e0256183944be6b748c5951c2d7a8c ""
+["pdflatex"] 1740865383.9132 "/Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv/pavan-cv.tex" "pavan-cv.pdf" "pavan-cv" 1740865384.4117 0
+  "/Users/pavanpreetgandhi/Documents/pavanpreet-gandhi.github.io/resume-cv/pavan-cv.tex" 1740865383.67229 7806 958e19bd166b47d7ef55019a38387bb3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -81,9 +81,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730667952.64925 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730667912 8221419 dd5125ff4ce6d25e2afeeaaa0a03c3f4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "pavan-cv.aux" 1740486005.89211 478 7850913b88613d856447ce6e9d3fadcf "pdflatex"
-  "pavan-cv.out" 1740486005.89243 254 da61c925c7921dc78c38c49429c94cb8 "pdflatex"
-  "pavan-cv.tex" 1740486005.27018 7808 09e0256183944be6b748c5951c2d7a8c ""
+  "pavan-cv.aux" 1740865384.36949 478 7850913b88613d856447ce6e9d3fadcf "pdflatex"
+  "pavan-cv.out" 1740865384.36985 254 da61c925c7921dc78c38c49429c94cb8 "pdflatex"
+  "pavan-cv.tex" 1740865383.67229 7806 958e19bd166b47d7ef55019a38387bb3 ""
   (generated)
   "pavan-cv.aux"
   "pavan-cv.log"
