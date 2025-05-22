@@ -1,16 +1,16 @@
 ---
 title: "Incentivizing both Grounding and Reasoning in Large Language Models with Online Reinforcement Learning"
-excerpt: "Project com src='/images/rl-llm-image.png'>"
+excerpt: "Training LLaMA-based LLM Agents in interactive text-based environments src='/images/rl-llm-image.png'>"
 collection: portfolio
 ---
+
+**[Link to Full Report](https://github.com/pavanpreet-gandhi/rl-llm/blob/main/report/acl-ijcnlp2021-templates/acl2021.pdf)** | **[View on GitHub](https://github.com/pavanpreet-gandhi/rl-llm)**
 
 **A Group Thesis Project Exploring Reasoning, Grounding, and Learning Efficiency in AI Agents**
 
 This project was undertaken as our thesis for the course on **Open-endedness and General Intelligence**, taught by **Tim Rocktäschel** (Google DeepMind & UCL), **Roberta Raileanu** (Meta GenAI & UCL), and **Jack Parker-Holder** (Google DeepMind & UCL).
 
 Our work explored whether prompting Large Language Models (LLMs) to "reason" before acting improves their learning speed and generalization in complex text-based environments. We developed and fine-tuned LLM agents using a novel **token-by-token action generation** method and a **nested Reinforcement Learning (RL)** approach within the BabyAI-Text platform.
-
-**[Link to Full Report](https://github.com/pavanpreet-gandhi/rl-llm/blob/main/report/acl-ijcnlp2021-templates/acl2021.pdf)** | **[View on GitHub](https://github.com/pavanpreet-gandhi/rl-llm)**
 
 ---
 
@@ -21,7 +21,7 @@ Can explicit reasoning enhance LLM agent performance in online RL? We tackled th
 * Developing LLM agents that generate actions **token-by-token**, offering greater flexibility.
 * Comparing agents that **verbalize reasoning steps** against those generating actions **directly**.
 * Implementing a **nested PPO-based RL algorithm** for fine-tuning (using LLaMA-3.2-3B-Instruct with LoRA) to precisely assign credit during the decision process.
-* Testing rigorously in **BabyAI-Text**, a challenging environment requiring language understanding and navigation.
+* Testing in **BabyAI-Text**, a text-based environment requiring language understanding and navigation.
 
 ---
 
@@ -38,7 +38,7 @@ Can explicit reasoning enhance LLM agent performance in online RL? We tackled th
 
 ### Technical Highlights
 
-* **Languages & Frameworks:** Python, PyTorch
+* **Languages & Frameworks:** Python, PyTorch, Hugging Face Transformers, TRL, PEFT
 * **Core AI/ML:** Reinforcement Learning (PPO, Nested RL), LLM Fine-Tuning (LLaMA, LoRA), Prompt Engineering
 * **Environment & Tools:** BabyAI-Text, Weights & Biases, Hugging Face Hub, Git
 
