@@ -15,8 +15,8 @@ main:
   #   url: /teaching/    
   
   # TODO: Fill this up after masters
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
