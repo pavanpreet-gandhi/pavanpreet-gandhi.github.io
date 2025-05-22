@@ -1,7 +1,6 @@
 ---
-title: "Training LLaMA-based LLM Agents with Reinforcement Learning in Multi-Step Text Environments"
-excerpt: "Incentivizing both Grounding and Reasoning in Large Language Models with Online Reinforcement Learning"
-collection: portfolio
+title: "RL LLM Agents"
+excerpt: "Fine-tuned LLaMA-based LLM agents in text-based multi-step environments. Explored the impact of reasoning on learning efficiency and generalization."
 ---
 
 **[Link to Full Report](https://github.com/pavanpreet-gandhi/rl-llm/blob/main/report/acl-ijcnlp2021-templates/acl2021.pdf)** | **[View on GitHub](https://github.com/pavanpreet-gandhi/rl-llm)**
