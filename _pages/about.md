@@ -9,10 +9,12 @@ redirect_from:
 
 ## About Me
 
-🎓 Currently pursuing an MSc in Computational Statistics and Machine Learning at University College London (UCL).
+I am an M.Sc. student in Computational Statistics and Machine Learning at University College London (UCL) and a research intern at Century Tech. At Century Tech, I am developing multimodal audio-text reasoning systems for automated oral assessment scoring.
 
-🔍 My research interests are in applying Reinforcement Learning to Large Language Models.
+I am particularly motivated by reinforcement learning and its application to large language models. My most recent project involves finetuning LLaMA-based LLM agents in text-based multi-step environments.
 
-📜 I am currently working on my master's thesis involving reasoning with large audio models.
+My core interest lies in the safe and responsible advancement of AI for the benefit of humanity. I am eager to apply my skills to challenging problems with a positive societal impact.
 
-📈 Previously, I was a Graduate Data Scientist at American express. I enjoy applying my skills to add value.
+I am currently seeking research or applied opportunities in AI, machine learning, or data science, starting this autumn (2025). Please feel free to reach out if you have any leads or opportunities at [pavanpreet.gandhi@gmail.com](mailto:pavanpreet.gandhi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/pavanpreet-gandhi/).
+
+You can find more about my work on my [CV](/resume-cv/pavan-cv.pdf) or by exploring this website.
