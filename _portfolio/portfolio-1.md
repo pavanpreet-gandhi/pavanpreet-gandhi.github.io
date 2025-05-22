@@ -1,6 +1,6 @@
 ---
-title: "RL LLM Agents"
-excerpt: "Fine-tuned LLaMA-based LLM agents in text-based multi-step environments. Explored the impact of reasoning on learning efficiency and generalization."
+title: "Incentivizing both Grounding and Reasoning in Large Language Models with Online Reinforcement Learning"
+excerpt: "Fine-tuned LLaMA-based LLM agents with online reinforcement learning (PPO) in a text based multi-step environment (BabyAI-Text). Investigated the impact of encouraging “reasoning-before-action”. In this simple setting, reasoning-before-action did not improve sample efficiency but provided interpretability advantages, and we also observed an interesting “reasoning collapse” phenomenon."
 ---
 
 **[Link to Full Report](https://github.com/pavanpreet-gandhi/rl-llm/blob/main/report/acl-ijcnlp2021-templates/acl2021.pdf)** | **[View on GitHub](https://github.com/pavanpreet-gandhi/rl-llm)**
