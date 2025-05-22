@@ -17,4 +17,4 @@ My core interest lies in the safe and responsible advancement of AI for the bene
 
 I am currently seeking research or applied opportunities in AI, machine learning, or data science, starting this autumn (2025). Please feel free to reach out if you have any leads or opportunities at [pavanpreet.gandhi@gmail.com](mailto:pavanpreet.gandhi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/pavanpreet-gandhi/).
 
-You can find more about my work on my [CV](/resume-cv/pavan-cv.pdf) or by exploring this website.
+You can find more about my work on my [CV](/resume-cv/pavan-cv-main.pdf) or by exploring this website.
