@@ -1,6 +1,6 @@
 ---
-title: "Incentivizing both Grounding and Reasoning in Large Language Models with Online Reinforcement Learning"
-excerpt: "Training LLaMA-based LLM Agents in interactive text-based environments src='/images/rl-llm-image.png'>"
+title: "Training LLaMA-based LLM Agents with Reinforcement Learning in Multi-Step Text Environments"
+excerpt: "Incentivizing both Grounding and Reasoning in Large Language Models with Online Reinforcement Learning"
 collection: portfolio
 ---
 
