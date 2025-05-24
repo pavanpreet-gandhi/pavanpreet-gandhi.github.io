@@ -1,3 +1,8 @@
+---
+title: "Stock Portfolio Optimization with Deep Reinforcement Learning"
+excerpt: "Trained a deep Q-learning agent for stock portfolio optimization. Benchmarked against mean-variance and Sharpe-ratio baselines, with comparable or superior returns in test scenarios."
+---
+
 # Deep Reinforcement Learning for Stock Portfolio Optimisation
 
 *Undergraduate dissertation — Mahidol University International College, 2023*
